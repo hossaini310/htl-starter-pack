@@ -1,8 +1,14 @@
 {
   "name": "htl-starter-pack",
   "displayName": "HTL Starter Pack",
-  "description": "Das HTL Starter Pack ist eine umfassende Sammlung von vscode extensions, die speziell für Schüler:innen der HTL Wien West zusammengestellt wurde. Mit diesem Pack erhalten die Schüler:innen alle Extensions, die sie benötigen, um effizient und erfolgreich an ihren Projekten zu arbeiten.",
-  "version": "0.0.1",
+  "publisher": "HossainiHosain",
+  "description": "The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.",
+  "icon": "./images/icon-01.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hossaini310/htl-starter-pack"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
