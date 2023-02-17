@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "htl-starter-pack" extension pack will be documented in this file.
+### v1.1.2 - 2023-02-17
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Some extensions are taken out to make the extension pack lighter
