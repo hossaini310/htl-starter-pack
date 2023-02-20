@@ -17,6 +17,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Shows GitHub Pull Requests and Issues
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Shows information about the Git repository
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching HTML tags
+- [htl-vscode-settings](https://marketplace.visualstudio.com/items?itemName=HossainiHosain.htl-vscode-settings): Sets some default settings for the editor and prettier.
 - [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap): Wraps HTML tags
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets): Adds code snippets for JavaScript
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster): Adds code snippets for JavaScript
