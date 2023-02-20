@@ -2,6 +2,9 @@
 
 The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.
 
+## Size of the pack
+
+- 264 MB (277 755 940 bytes)
 ## Included extensions
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator): Generates .gitignore files
