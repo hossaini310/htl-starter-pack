@@ -1,5 +1,12 @@
 # Change Log
 
+### v1.4.0 - 2023-02-21
+
+- Removed Auto Rename Tag, Auto Close Tag and Auto Import extension, because it is in the HTL vscode extension
+- Removed Vetur extension, because of conflicts with Volar extension
+- Removed markdown-preview-enhanced, Markdown All in One
+- added Highlight Matching Tag extension
+
 ### v1.3.2 - 2023-02-21
 
 - Bug fixes

@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/hossaini310/htl-starter-pack"
   },
-  "version": "1.3.2",
+  "version": "1.4.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -24,30 +24,24 @@
     "dzhavat.css-flexbox-cheatsheet",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
     "GitHub.vscode-pull-request-github",
     "hollowtree.vue-snippets",
     "humao.rest-client",
     "kamikillerto.vscode-colorize",
     "mikestead.dotenv",
     "ms-vscode.live-server",
-    "octref.vetur",
-    "piotrpalarz.vscode-gitignore-generator",
     "PKief.material-icon-theme",
     "ritwickdey.LiveServer",
     "sburg.vscode-javascript-booster",
     "sdras.vue-vscode-snippets",
-    "shd101wyy.markdown-preview-enhanced",
     "sibiraj-s.vscode-scss-formatter",
-    "steoates.autoimport",
     "styled-components.vscode-styled-components",
     "syler.sass-indented",
+    "vincaslt.highlight-matching-tag",
     "Vue.volar",
     "Vue.vscode-typescript-vue-plugin",
     "Wscats.vue",
     "xabikos.JavaScriptSnippets",
-    "yzhang.markdown-all-in-one",
     "HossainiHosain.htl-vscode-settings"
   ]
 }

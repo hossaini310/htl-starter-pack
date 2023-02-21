@@ -4,13 +4,9 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 
 ## Size of the Starter Pack
 
-- If the package is installed, it takes 264 MB of your disk space.
+- If the package is installed, it takes 129 MB of your disk space.
 - ## Included extensions
 
-- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator): Generates .gitignore files
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically closes HTML tags
-- [Auto import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport): Automatically imports modules
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically renames HTML tags
 - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme): Theme for VS Code
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize): Colorizes CSS colors
 - [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet): Shows a cheatsheet for CSS Flexbox
@@ -24,8 +20,6 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster): Adds code snippets for JavaScript
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server): Starts a local server
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Starts a local server
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): Adds functionality to Markdown
-- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced): Adds functionality to Markdown
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Adds icons to the explorer
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Autocompletes file paths
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formats code
@@ -34,8 +28,8 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter): Formats SCSS code
 - [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes): Toggles quotes
 - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin): Adds support for TypeScript in Vue files
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Adds support for Vue files
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components): Adds support for styled-components
+- [highlight-matching-tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching HTML tags
 - [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets): Adds snippets for Vue 3
 - [Vue 3 Support - All in One](https://marketplace.visualstudio.com/items?itemName=Wscats.vue): Adds support for Vue 3
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar): Adds support for Vue files
