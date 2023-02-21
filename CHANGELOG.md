@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.3.2 - 2023-02-21
+
+- Bug fixes
+
 ### v1.3.1 - 2023-02-21
 
 - The size of the extension pack is added in README file

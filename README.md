@@ -2,10 +2,10 @@
 
 The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.
 
-## Size of the pack
+## Size of the Starter Pack
 
-- 264 MB (277 755 940 bytes)
-## Included extensions
+- If the package is installed, it takes 264 MB of your disk space.
+- ## Included extensions
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator): Generates .gitignore files
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically closes HTML tags
@@ -15,11 +15,9 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize): Colorizes CSS colors
 - [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet): Shows a cheatsheet for CSS Flexbox
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv): Supports .env files
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): Shows errors in the editor
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint into VS Code
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Shows GitHub Pull Requests and Issues
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Shows information about the Git repository
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching HTML tags
 - [htl-vscode-settings](https://marketplace.visualstudio.com/items?itemName=HossainiHosain.htl-vscode-settings): Sets some default settings for the editor and prettier.
 - [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap): Wraps HTML tags
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets): Adds code snippets for JavaScript
