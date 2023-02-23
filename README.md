@@ -5,7 +5,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 ## Size of the Starter Pack
 
 - If the package is installed, it takes 129 MB of your disk space.
-- ## Included extensions
+## Included extensions
 
 - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme): Theme for VS Code
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize): Colorizes CSS colors

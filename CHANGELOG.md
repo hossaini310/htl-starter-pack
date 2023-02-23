@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.4.1 - 2023-02-23
+
+- Bug fixes
+
 ### v1.4.0 - 2023-02-21
 
 - Removed Auto Rename Tag, Auto Close Tag and Auto Import extension, because it is in the HTL vscode extension
