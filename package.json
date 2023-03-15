@@ -8,9 +8,9 @@
     "type": "git",
     "url": "https://github.com/hossaini310/htl-starter-pack"
   },
-  "version": "1.4.1",
+  "version": "1.5.0",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Extension Packs"
