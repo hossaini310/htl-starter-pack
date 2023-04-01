@@ -1,5 +1,12 @@
 # Change Log
 
+### v1.6.0 - 2023-04-01
+
+- For older versions up to 1.67.0 it is also available
+- Added new extension Vitest
+- Bug fixes
+- Added MIT LICENSE
+
 ### v1.5.0 - 2023-03-15
 
 - For older versions up to 1.60.0 it is also available

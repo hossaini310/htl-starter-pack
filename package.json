@@ -8,9 +8,10 @@
     "type": "git",
     "url": "https://github.com/hossaini310/htl-starter-pack"
   },
-  "version": "1.5.0",
+  "license": "MIT",
+  "version": "1.6.0",
   "engines": {
-    "vscode": "^1.60.0"
+    "vscode": "^1.67.0"
   },
   "categories": [
     "Extension Packs"
@@ -42,6 +43,7 @@
     "Vue.vscode-typescript-vue-plugin",
     "Wscats.vue",
     "xabikos.JavaScriptSnippets",
+    "zixuanchen.vitest-explorer",
     "HossainiHosain.htl-vscode-settings"
   ]
 }

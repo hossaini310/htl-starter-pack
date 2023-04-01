@@ -5,6 +5,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 ## Size of the Starter Pack
 
 - If the package is installed, it takes 129 MB of your disk space.
+
 ## Included extensions
 
 - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme): Theme for VS Code
@@ -34,6 +35,11 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [Vue 3 Support - All in One](https://marketplace.visualstudio.com/items?itemName=Wscats.vue): Adds support for Vue 3
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar): Adds support for Vue files
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets): Adds snippets for Vue
+- [Vitest](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer): Adds support for Vitest
+
+## Requirements
+
+This extension requires VSCode version 1.67.0 or higher.
 
 ## Relevant links
 
