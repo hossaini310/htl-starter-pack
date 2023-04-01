@@ -2,7 +2,7 @@
 
 The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.
 
-## Size of the Starter Pack
+## Size of all installed extensions
 
 - If the package is installed, it takes 129 MB of your disk space.
 
