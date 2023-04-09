@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.7.0 - 2023-04-09
+
+- Added sponsor link
+
 ### v1.6.1 - 2023-04-09
 
 - Redesigned icon
