@@ -1,37 +1,37 @@
 {
   "name": "htl-starter-pack",
   "displayName": "HTL Starter Pack",
-  "publisher": "HossainiHosain",
+  "version": "1.6.1",
   "description": "The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.",
-  "icon": "images/icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hossaini310/htl-starter-pack"
   },
   "license": "MIT",
-  "version": "1.6.0",
-  "engines": {
-    "vscode": "^1.67.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
+  "publisher": "HossainiHosain",
   "extensionPack": [
     "BeardedBear.beardedtheme",
-    "bradgashler.htmltagwrap",
     "BriteSnow.vscode-toggle-quotes",
+    "GitHub.vscode-pull-request-github",
+    "HossainiHosain.htl-vscode-settings",
+    "PKief.material-icon-theme",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "Wscats.vue",
+    "bradgashler.htmltagwrap",
     "christian-kohler.path-intellisense",
     "dbaeumer.vscode-eslint",
     "dzhavat.css-flexbox-cheatsheet",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "GitHub.vscode-pull-request-github",
     "hollowtree.vue-snippets",
     "humao.rest-client",
     "kamikillerto.vscode-colorize",
     "mikestead.dotenv",
     "ms-vscode.live-server",
-    "PKief.material-icon-theme",
     "ritwickdey.LiveServer",
     "sburg.vscode-javascript-booster",
     "sdras.vue-vscode-snippets",
@@ -39,11 +39,11 @@
     "styled-components.vscode-styled-components",
     "syler.sass-indented",
     "vincaslt.highlight-matching-tag",
-    "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin",
-    "Wscats.vue",
     "xabikos.JavaScriptSnippets",
-    "zixuanchen.vitest-explorer",
-    "HossainiHosain.htl-vscode-settings"
-  ]
+    "zixuanchen.vitest-explorer"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "icon": "images/icon.png"
 }
