@@ -39,7 +39,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 
 ## Requirements
 
-This extension requires VSCode version 1.56.2 or higher.
+This extension requires VSCode version 1.67.1 or higher.
 
 ## Relevant links
 
