@@ -1,5 +1,10 @@
 # Change Log
 
+### v1.9.0 - 2023-06-11
+
+- Removed some extensions
+- Bug fixes
+
 ### v1.8.0 - 2023-06-11
 
 - New extension `Bootstrap IntelliSense` added a bootstrap autocomplete css class names

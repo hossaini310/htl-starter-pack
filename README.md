@@ -4,7 +4,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 
 ## Size of all installed extensions
 
-- If the package is installed, it takes 129 MB of your disk space.
+- If the package is installed, it takes 118 MB of your disk space.
 
 ## Included extensions
 
