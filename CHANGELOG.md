@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.7.3 - 2023-06-11
+
+- Bug fixes
+
 ### v1.7.2 - 2023-06-07
 
 - For older versions up to 1.67.1 it is also available
