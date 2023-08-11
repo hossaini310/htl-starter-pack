@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.9.1 - 2023-08-11
+
+- 🐛 Bug fixes
+
 ### v1.9.0 - 2023-06-11
 
 - Removed some extensions
