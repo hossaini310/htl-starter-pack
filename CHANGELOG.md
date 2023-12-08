@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.9.2 - 2023-12-08
+
+- removed `Bootstrap IntelliSense`
+
 ### v1.9.1 - 2023-08-11
 
 - 🐛 Bug fixes
