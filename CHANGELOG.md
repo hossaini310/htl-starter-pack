@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.10.1 - 2024-03-10
+
+- 
+
 ### v1.10.0 - 2024-03-10
 
 - removed `vscode-pull-request-github` and`vscode-typescript-vue-plugin` extensions
