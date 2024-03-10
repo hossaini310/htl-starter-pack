@@ -1,7 +1,7 @@
 {
   "name": "htl-starter-pack",
   "displayName": "HTL Starter Pack",
-  "version": "1.9.2",
+  "version": "1.10.0",
   "description": "The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.",
   "categories": [
     "Extension Packs"
@@ -18,10 +18,8 @@
   "extensionPack": [
     "BeardedBear.beardedtheme",
     "BriteSnow.vscode-toggle-quotes",
-    "GitHub.vscode-pull-request-github",
     "PKief.material-icon-theme",
     "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin",
     "Wscats.vue",
     "bradgashler.htmltagwrap",
     "christian-kohler.path-intellisense",
@@ -40,8 +38,8 @@
     "styled-components.vscode-styled-components",
     "syler.sass-indented",
     "vincaslt.highlight-matching-tag",
-    "xabikos.JavaScriptSnippets",
-    "zixuanchen.vitest-explorer"
+    "vitest.explorer",
+    "xabikos.JavaScriptSnippets"
   ],
   "engines": {
     "vscode": "^1.67.1"

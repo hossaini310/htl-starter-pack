@@ -1,5 +1,10 @@
 # Change Log
 
+### v1.10.0 - 2024-03-10
+
+- removed `vscode-pull-request-github` and`vscode-typescript-vue-plugin` extensions
+- changed `vitest` version
+
 ### v1.9.2 - 2023-12-08
 
 - removed `Bootstrap IntelliSense`
