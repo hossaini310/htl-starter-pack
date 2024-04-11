@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.10.2 - 2024-04-11
+
+- removed vue volar
+
 ### v1.10.1 - 2024-03-10
 
 - updated README file
