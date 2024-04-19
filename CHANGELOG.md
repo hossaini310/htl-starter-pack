@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.10.3 - 2024-04-19
+
+- added new Extention `Auto Rename Tag`
+
 ### v1.10.2 - 2024-04-11
 
 - removed vue volar
