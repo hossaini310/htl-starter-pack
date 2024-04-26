@@ -1,7 +1,7 @@
 {
   "name": "htl-starter-pack",
   "displayName": "HTL Starter Pack",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "description": "The HTL Starter Pack is a comprehensive collection of vscode extensions specially designed for students of HTL Wien West. With this pack, students get all the extensions they need to work efficiently and successfully on their projects.",
   "categories": [
     "Extension Packs"
@@ -39,7 +39,9 @@
     "syler.sass-indented",
     "vincaslt.highlight-matching-tag",
     "vitest.explorer",
-    "xabikos.JavaScriptSnippets"
+    "xabikos.JavaScriptSnippets",
+    "hossaini.quasar-intellisense",
+    "abdelaziz18003.quasar-snippets"
   ],
   "engines": {
     "vscode": "^1.67.1"
