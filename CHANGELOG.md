@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.10.5 - 2024-05-16
+
+- removed material-icon-theme and updated README file
+
 ### v1.10.4 - 2024-04-26
 
 - added new Extentions `Quasar Snippets` and `Quasar IntelliSense`

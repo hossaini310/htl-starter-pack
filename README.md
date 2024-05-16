@@ -4,7 +4,7 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 
 ## Size of all installed extensions
 
-- If the package is installed, it takes 112 MB of your disk space.
+- If the package is installed, it takes 119 MB of your disk space.
 
 ## Included extensions
 
@@ -18,7 +18,6 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets): Adds code snippets for JavaScript
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster): Adds code snippets for JavaScript
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Starts a local server
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Adds icons to the explorer
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Autocompletes file paths
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Formats code
 - [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): Sends HTTP requests
@@ -29,9 +28,11 @@ The HTL Starter Pack is a comprehensive collection of vscode extensions speciall
 - [highlight-matching-tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching HTML tags
 - [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets): Adds snippets for Vue 3
 - [Vue 3 Support - All in One](https://marketplace.visualstudio.com/items?itemName=Wscats.vue): Adds support for Vue 3
-- [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar): Adds support for Vue files
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets): Adds snippets for Vue
 - [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer): Adds support for Vitest
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag
+- [Quasar Snippets](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets): Provides snippets for quasar-framework
+- [Quasar Intellisense](https://marketplace.visualstudio.com/items?itemName=hossaini.quasar-intellisense): Offers CSS class autocomplete for Quasar
 
 ## Requirements
 
